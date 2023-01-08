@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: whitesmoke;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(127, 136, 255);11783;
+}
+
+section {
+  width: 50%;
+  /* background-color: rgb(127, 136, 255); */
+    /* Text einrücken --- Padding */
+    padding: 8px;
+    
+}
+
+.flexbox {
+  display: flex;
+}
